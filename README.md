@@ -11,16 +11,14 @@
 
 [![Cale Torino's GitHub stats](https://github-readme-stats-coral-ten.vercel.app/api?username=Cale-Torino&show_icons=true&theme=radical&hide_border=true)]()
 
-https://github-readme-stats-git-master-cale-torino.vercel.app/api?username=Cale-Torino&show_icons=true&theme=radical
-
-[![Top Langs](https://github-readme-stats-coral-ten.vercel.app/api/top-langs/?username=Cale-Torino)]()
+[![Top Langs](https://github-readme-stats-coral-ten.vercel.app/api/top-langs/?username=Cale-Torino&theme=radical&hide_border=true)]()
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />
 
