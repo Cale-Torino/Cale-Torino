@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Cale-Torino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cale-Torino&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Cale-Torino's GitHub stats](https://github-readme-stats-coral-ten.vercel.app/api?username=Cale-Torino&show_icons=true&theme=radical)](https://github.com/Cale-Torino/github-readme-stats)
 
 <!--
 **Cale-Torino/Cale-Torino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
