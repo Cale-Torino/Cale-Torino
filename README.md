@@ -60,14 +60,11 @@
 [![Cale Torino's GitHub Stats](https://github-readme-stats-coral-ten.vercel.app/api?username=Cale-Torino&show_icons=true&theme=radical&hide_border=true)]()
 <!-- GITHUB_STATS:END -->
 
+### :speak_no_evil: Top Languages
 
-
-<details>
-  <summary>:speak_no_evil: Top Languages</summary>
-  
-  <img align="left" alt="Cale Torino's Top Languages" src="https://github-readme-stats-coral-ten.vercel.app/api/top-langs/?username=Cale-Torino&theme=radical&hide_border=true&layout=compact"/>
-  
-</details>
+<!-- TTOP_LAN:START -->
+[![Cale Torino's Top Languages](https://github-readme-stats-coral-ten.vercel.app/api/top-langs/?username=Cale-Torino&theme=radical&hide_border=true&layout=compact)]()
+<!-- TOP_LAN:END -->
 
 ### 
 
