@@ -6,10 +6,17 @@
 - I like tinkering with all kinds of electronics ( microcontrollers, FPGAs etc.)
 - I love the precision of electronics. I'm always happy to learn new things and I'm a self taught programmer.
 
-My Sites
+---
+
+### :computer: My Sites
+
+<!-- MY_SITES:START -->
 - [My Website](https://www.techrad.co.za "My Website")
 - [My Tutorials Site](https://tutorials.techrad.co.za "My Tutorials Site")
 - [SAFE-TVIGIL](https://safe-tvigil.com "SAFE-TVIGIL")
+<!-- MY_SITES:END -->
+
+---
 
 [![Cale Torino's GitHub stats](https://github-readme-stats-coral-ten.vercel.app/api?username=Cale-Torino&show_icons=true&theme=radical&hide_border=true)]
 
