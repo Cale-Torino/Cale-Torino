@@ -1,21 +1,23 @@
 ## Hi there, I'm Cale Torino 👋
 
-[![Website]()]()
-[![Twitter Follow]()]()
-
 #### A Software development enthusiast :octocat: , Amateur radio enthusiast :radio: , Amateur Cattle farmer :ox: and electronics enthusiast :electric_plug: .
 
 - I enjoy working on web based projects and creating websites.
 - I like tinkering with all kinds of electronics ( microcontrollers, FPGAs etc.)
 - I love the precision of electronics. I'm always happy to learn new things and I'm a self taught programmer.
 
-[![Cale Torino's GitHub stats](https://github-readme-stats-coral-ten.vercel.app/api?username=Cale-Torino&show_icons=true&theme=radical&hide_border=true)]()
+My Sites
+- [My Website](https://www.techrad.co.za "My Website")
+- [My Tutorials Site](https://tutorials.techrad.co.za "My Tutorials Site")
+- [SAFE-TVIGIL](https://safe-tvigil.com "SAFE-TVIGIL")
+
+[![Cale Torino's GitHub stats](https://github-readme-stats-coral-ten.vercel.app/api?username=Cale-Torino&show_icons=true&theme=radical&hide_border=true)]
 
 <!--
-[![Cale Torino's wakatime stats](https://github-readme-stats-coral-ten.vercel.app/api/wakatime?username=Cale-Torino&theme=radical&hide_border=true)]()
+[![Cale Torino's wakatime stats](https://github-readme-stats-coral-ten.vercel.app/api/wakatime?username=Cale-Torino&theme=radical&hide_border=true)]
 -->
 
-[![Top Languages](https://github-readme-stats-coral-ten.vercel.app/api/top-langs/?username=Cale-Torino&theme=radical&hide_border=true&layout=compact)]()
+[![Top Languages](https://github-readme-stats-coral-ten.vercel.app/api/top-langs/?username=Cale-Torino&theme=radical&hide_border=true&layout=compact)]
 
 ### Connect with me:
 
@@ -50,4 +52,4 @@
 
 [![Readme Card](https://github-readme-stats-coral-ten.vercel.app/api/pin/?username=Cale-Torino&repo=github-readme-stats&theme=radical&hide_border=true)]()
 
-:suspect:
+
