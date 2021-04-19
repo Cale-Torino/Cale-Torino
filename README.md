@@ -34,7 +34,6 @@
 <img align="left" alt="html" width="26px" src="https://simpleicons.org/icons/html5.svg" />
 <img align="left" alt="css" width="26px" src="https://simpleicons.org/icons/css3.svg" />
 <img align="left" alt="bootstrap" width="26px" src="https://simpleicons.org/icons/bootstrap.svg" />
-<img align="left" alt="c" width="26px" src="https://simpleicons.org/icons/c.svg" />
 <img align="left" alt="csharp" width="26px" src="https://simpleicons.org/icons/csharp.svg" />
 <img align="left" alt="c++" width="26px" src="https://simpleicons.org/icons/cplusplus.svg" />
 <img align="left" alt="java" width="26px" src="https://simpleicons.org/icons/java.svg" />
