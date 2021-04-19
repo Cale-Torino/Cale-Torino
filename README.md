@@ -31,16 +31,22 @@
 
 ### Languages and Tools I Use:
 
-<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />
-<img align="left" alt="c" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
-<img align="left" alt="csharp" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
-<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
-<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
-<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" />
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
-<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />
-<img align="left" alt="vs" width="26px" src="https://github.com/amido/azure-vector-icons/blob/master/renders/visual-studio-online.png" />
-<img align="left" alt="sql" width="26px" src="https://github.com/amido/azure-vector-icons/blob/master/renders/sql-database-generic.png" />
+<img align="left" alt="html" width="26px" src="https://simpleicons.org/icons/html5.svg" />
+<img align="left" alt="css" width="26px" src="https://simpleicons.org/icons/css3.svg" />
+<img align="left" alt="bootstrap" width="26px" src="https://simpleicons.org/icons/bootstrap.svg" />
+<img align="left" alt="c" width="26px" src="https://simpleicons.org/icons/c.svg" />
+<img align="left" alt="csharp" width="26px" src="https://simpleicons.org/icons/csharp.svg" />
+<img align="left" alt="c++" width="26px" src="https://simpleicons.org/icons/cplusplus.svg" />
+<img align="left" alt="java" width="26px" src="https://simpleicons.org/icons/java.svg" />
+<img align="left" alt="javascript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />
+<img align="left" alt="php" width="26px" src="https://simpleicons.org/icons/php.svg" />
+<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/python.svg" />
+<img align="left" alt="github" width="26px" src="https://simpleicons.org/icons/github.svg" />
+<img align="left" alt="xampp" width="26px" src="https://simpleicons.org/icons/xampp.svg" />
+<img align="left" alt="androidstudio" width="26px" src="https://simpleicons.org/icons/androidstudio.svg" />
+<img align="left" alt="postman" width="26px" src="https://simpleicons.org/icons/postman.svg" />
+<img align="left" alt="mysql" width="26px" src="https://simpleicons.org/icons/mysql.svg" />
+<img align="left" alt="visualstudio" width="26px" src="https://simpleicons.org/icons/visualstudio.svg" />
 
 <br />
 <br />
