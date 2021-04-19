@@ -23,11 +23,10 @@
 -->
 ### Connect with me:
 
-<img align="left" alt="" width="22px" target="_blank" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img align="left" alt="" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<a href="https://www.youtube.com/channel/UCp3xaxhaAYnQqo3J8S6mIdw" target="_blank"> <img align="left" alt="" width="22px" src="http://i.stack.imgur.com/xx.png"></a>
+<a href="https://www.techrad.co.za" target="_blank"> <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
+<a href="https://www.youtube.com/channel/UCp3xaxhaAYnQqo3J8S6mIdw" target="_blank"> <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"></a>
+<a href="https://za.linkedin.com/in/cale-torino-859485172" target="_blank"> <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
+
 <br />
 
 ### Languages and Tools I Use:
