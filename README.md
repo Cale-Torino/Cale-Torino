@@ -11,7 +11,9 @@
 
 [![Cale Torino's GitHub stats](https://github-readme-stats-coral-ten.vercel.app/api?username=Cale-Torino&show_icons=true&theme=radical&hide_border=true)]()
 
+<!--
 [![Cale Torino's wakatime stats](https://github-readme-stats-coral-ten.vercel.app/api/wakatime?username=Cale-Torino&theme=radical&hide_border=true)]()
+-->
 
 [![Top Languages](https://github-readme-stats-coral-ten.vercel.app/api/top-langs/?username=Cale-Torino&theme=radical&hide_border=true&layout=compact)]()
 
@@ -46,6 +48,6 @@
 <br />
 <br />
 
-[![Readme Card](https://github-readme-stats-coral-ten.vercel.app/api/pin/?username=Cale-Torino&repo=github-readme-stats)]()
+[![Readme Card](https://github-readme-stats-coral-ten.vercel.app/api/pin/?username=Cale-Torino&repo=github-readme-stats&theme=radical&hide_border=true)]()
 
 :suspect:
