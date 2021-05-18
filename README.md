@@ -20,6 +20,17 @@ Check out my archive profile at: https://github.com/Cale-Torino-the-2nd
 - [SAFE-TVIGIL](https://safe-tvigil.com "SAFE-TVIGIL")
 <!-- MY_SITES:END -->
 
+### :computer: Previous Work Experience
+
+<!-- Previous_SITES:START -->
+- [2015-2018 Truck Assist](https://truckassist.co.za "Truck Assist")
+- [2015-2018 Safe-T Solutions](https://safe-t.co.za "Safe-T Solutions")
+- [2015-2018 One Insurance](https://www.one.za.com "One Insurance")
+- [2018-2019 Cirrlus Corporation](https://cirrlusemail.wixsite.com/cirrluscorporation "Cirrlus Corporation")
+- [2019-present SAFE-TVIGIL](https://safe-tvigil.com "SAFE-TVIGIL")
+- [2020-present IQ-Blue](# "IQ-Blue")
+<!-- Previous_SITES:END -->
+
 ---
 
 <!--
