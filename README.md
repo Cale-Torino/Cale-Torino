@@ -17,7 +17,6 @@ Check out my archive profile at: https://github.com/Cale-Torino-the-2nd
 - [My Tutorials Site](https://tutorials.techrad.co.za "My Tutorials Site")
 - [Support Site](https://support.techrad.co.za "Support Site")
 - [F&Q Site](https://faq.techrad.co.za "F&Q Site")
-- [SAFE-TVIGIL](https://safe-tvigil.com "SAFE-TVIGIL")
 <!-- MY_SITES:END -->
 
 ### :computer: Previous Work Experience
