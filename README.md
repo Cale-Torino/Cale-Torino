@@ -19,6 +19,12 @@ Check out my archive profile at: https://github.com/Cale-Torino-the-2nd
 - [F&Q Site](https://faq.techrad.co.za "F&Q Site")
 <!-- MY_SITES:END -->
 
+### :radio: Amateur Radio
+
+<!-- MY_SITES:START -->
+- [Midlands Amateur Radio Club](https://www.marc.org.za "Midlands Amateur Radio Club")
+<!-- MY_SITES:END -->
+
 ### :computer: Previous Work Experience
 
 <!-- Previous_SITES:START -->
