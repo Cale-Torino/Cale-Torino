@@ -16,7 +16,7 @@ Check out my archive profile at: https://github.com/Cale-Torino-the-2nd
 - [My Website](https://www.techrad.co.za "My Website")
 - [My Tutorials Site](https://tutorials.techrad.co.za "My Tutorials Site")
 - [Support Site](https://support.techrad.co.za "Support Site")
-- [F&Q Site](https://faq.techrad.co.za "F&Q Site")
+- [API Site](https://techrad.co.za/api_doc "F&Q Site")
 <!-- MY_SITES:END -->
 
 ### :radio: Amateur Radio
