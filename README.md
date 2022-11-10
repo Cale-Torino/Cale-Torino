@@ -2,7 +2,7 @@
 
 Check out my archive profile at: https://github.com/Cale-Torino-the-2nd
 
-#### A Software development enthusiast :octocat: , Amateur radio enthusiast :radio: , Amateur Cattle farmer :ox: and electronics enthusiast :electric_plug: .
+#### A Software development enthusiast :octocat: , Amateur radio enthusiast :radio: and electronics enthusiast :electric_plug: .
 
 - I enjoy working on web based projects and creating websites.
 - I like tinkering with all kinds of electronics ( microcontrollers, FPGAs etc.)
