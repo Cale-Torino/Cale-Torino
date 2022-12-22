@@ -1,8 +1,9 @@
 ## Hi there, I'm Cale Torino 👋
 
+https://user-images.githubusercontent.com/52330180/209204762-bb92e7db-ac76-45f8-909e-0f90fb109b8d.mp4
+<!-- [link](https://www.githubunwrapped.com/Cale-Torino) -->
 
-https://www.githubunwrapped.com/Cale-Torino
-[<img src="https://www.githubunwrapped.com/favicons/blue.png" width="50%">](https://www.githubunwrapped.com/Cale-Torino "githubunwrapped")
+Go To https://www.githubunwrapped.com for your own version
 
 Check out my archive profile at: https://github.com/Cale-Torino-the-2nd
 
