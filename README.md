@@ -1,10 +1,5 @@
 ## Hi there, I'm Cale Torino 👋
 
-https://user-images.githubusercontent.com/52330180/209204762-bb92e7db-ac76-45f8-909e-0f90fb109b8d.mp4
-<!-- [link](https://www.githubunwrapped.com/Cale-Torino) -->
-
-Go To https://www.githubunwrapped.com for your own version
-
 Check out my archive profile at: https://github.com/Cale-Torino-the-2nd
 
 #### A Software development enthusiast :octocat: , Amateur radio enthusiast :radio: and electronics enthusiast :electric_plug: .
