@@ -49,12 +49,12 @@ Check out my archive profile at: https://github.com/Cale-Torino-the-2nd
 
 <br />
 
-### Languages and Tools I Use:
+### Languages I Use:
 
 <img align="left" alt="html" width="26px" src="https://simpleicons.org/icons/html5.svg" />
 <img align="left" alt="css" width="26px" src="https://simpleicons.org/icons/css3.svg" />
 <img align="left" alt="bootstrap" width="26px" src="https://simpleicons.org/icons/bootstrap.svg" />
-<img align="left" alt="csharp" width="26px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/C%23.png" />
+<img align="left" alt="csharp" width="26px" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img align="left" alt="c++" width="26px" src="https://simpleicons.org/icons/cplusplus.svg" />
 <img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
 <img align="left" alt="javascript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />
@@ -66,6 +66,8 @@ Check out my archive profile at: https://github.com/Cale-Torino-the-2nd
 <img align="left" alt="postman" width="26px" src="https://simpleicons.org/icons/postman.svg" />
 <img align="left" alt="mysql" width="26px" src="https://simpleicons.org/icons/mysql.svg" />
 <img align="left" alt="visualstudio" width="26px" src="https://simpleicons.org/icons/visualstudio.svg" />
+
+### Tools I Use:
 
 <br />
 <br />
@@ -91,5 +93,31 @@ Check out my archive profile at: https://github.com/Cale-Torino-the-2nd
 <!--
 [![Readme Card](https://github-readme-stats-coral-ten.vercel.app/api/pin/?username=Cale-Torino&repo=github-readme-stats&theme=radical&hide_border=true)]()
 -->
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
