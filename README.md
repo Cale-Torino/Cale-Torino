@@ -64,6 +64,7 @@ Check out my archive profile at: https://github.com/Cale-Torino-the-2nd
 <img align="left" alt="windows" width="150px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 <br />
+<br />
 
 ---
 
