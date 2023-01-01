@@ -54,7 +54,7 @@ Check out my archive profile at: https://github.com/Cale-Torino-the-2nd
 <img align="left" alt="html" width="26px" src="https://simpleicons.org/icons/html5.svg" />
 <img align="left" alt="css" width="26px" src="https://simpleicons.org/icons/css3.svg" />
 <img align="left" alt="bootstrap" width="26px" src="https://simpleicons.org/icons/bootstrap.svg" />
-<img align="left" alt="csharp" width="26px" src="https://simpleicons.org/icons/csharp.svg" />
+<img align="left" alt="csharp" width="26px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/C%23.png" />
 <img align="left" alt="c++" width="26px" src="https://simpleicons.org/icons/cplusplus.svg" />
 <img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
 <img align="left" alt="javascript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />
