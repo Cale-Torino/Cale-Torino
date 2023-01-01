@@ -54,8 +54,6 @@ Check out my archive profile at: https://github.com/Cale-Torino-the-2nd
 
 [![My Skills](https://skillicons.dev/icons?i=cs,arduino,aws,js,html,bootstrap,css,cpp,java,jquery,github,laravel,md,mysql,nginx,nodejs,php,py,raspberrypi,regex,stackoverflow,visualstudio,vscode,wordpress,androidstudio)](https://skillicons.dev)
 
-<br />
-
 ### OS I Use:
 
 <!-- GITHUB_STATS:OS https://github.com/Ileriayo/markdown-badges -->
@@ -64,9 +62,6 @@ Check out my archive profile at: https://github.com/Cale-Torino-the-2nd
 <img align="left" alt="lubuntu" width="217px" src="https://img.shields.io/badge/-Lubuntu-%230065C2?style=for-the-badge&logo=lubuntu&logoColor=white" />
 <img align="left" alt="ubuntu" width="200px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img align="left" alt="windows" width="230px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-
-<br />
-<br />
 
 ---
 
