@@ -58,10 +58,10 @@ Check out my archive profile at: https://github.com/Cale-Torino-the-2nd
 
 <!-- GITHUB_STATS:OS https://github.com/Ileriayo/markdown-badges -->
 
-<img align="left" alt="debian" width="200px" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
-<img align="left" alt="lubuntu" width="200px" src="https://img.shields.io/badge/-Lubuntu-%230065C2?style=for-the-badge&logo=lubuntu&logoColor=white" />
-<img align="left" alt="ubuntu" width="200px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img align="left" alt="windows" width="200px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img align="left" alt="debian" width="150px" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
+<img align="left" alt="lubuntu" width="150px" src="https://img.shields.io/badge/-Lubuntu-%230065C2?style=for-the-badge&logo=lubuntu&logoColor=white" />
+<img align="left" alt="ubuntu" width="150px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img align="left" alt="windows" width="150px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 <br />
 <br />
