@@ -54,6 +54,8 @@ Check out my archive profile at: https://github.com/Cale-Torino-the-2nd
 
 [![My Skills](https://skillicons.dev/icons?i=cs,arduino,aws,js,html,bootstrap,css,cpp,java,jquery,github,laravel,md,mysql,nginx,nodejs,php,py,raspberrypi,regex,stackoverflow,visualstudio,vscode,wordpress,androidstudio)](https://skillicons.dev)
 
+<br />
+
 ### OS I Use:
 
 <!-- GITHUB_STATS:OS https://github.com/Ileriayo/markdown-badges -->
