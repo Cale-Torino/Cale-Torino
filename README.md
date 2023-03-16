@@ -2,7 +2,7 @@
 
 Check out my archive profile at: https://github.com/Cale-Torino-the-2nd
 
-#### A Software development enthusiast :octocat: , Amateur radio enthusiast :radio: and electronics enthusiast :electric_plug: .
+#### A Software development enthusiast :octocat: , Ham radio enthusiast :radio: and electronics enthusiast :electric_plug: .
 
 - I enjoy working on web based projects and creating websites.
 - I like tinkering with all kinds of electronics ( microcontrollers, FPGAs etc.)
@@ -63,6 +63,7 @@ Check out my archive profile at: https://github.com/Cale-Torino-the-2nd
 <img align="left" alt="ubuntu" width="150px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img align="left" alt="windows" width="150px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
+<br />
 <br />
 <br />
 
