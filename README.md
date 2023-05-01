@@ -10,7 +10,7 @@ Check out my archive profile at: https://github.com/Cale-Torino-the-2nd
 
 ---
 
-### :computer: My Sites
+### 💻 My Sites
 
 <!-- MY_SITES:START -->
 - [My Website](https://www.techrad.co.za "My Website")
@@ -19,13 +19,13 @@ Check out my archive profile at: https://github.com/Cale-Torino-the-2nd
 - [API Site](https://techrad.co.za/api_doc "F&Q Site")
 <!-- MY_SITES:END -->
 
-### :radio: Amateur Radio
+### 📻 Amateur Radio
 
 <!-- MY_SITES:START -->
 - [Midlands Amateur Radio Club](https://www.marc.org.za "Midlands Amateur Radio Club")
 <!-- MY_SITES:END -->
 
-### :computer: Previous Experience
+### 🖥️ Previous Experience
 
 <!-- Previous_SITES:START -->
 - [[2015-2018] Truck Assist](https://truckassist.co.za "Truck Assist"), [Safe-T Solutions](https://web.archive.org/web/20220808231446/https://safe-t.co.za/ "Safe-T Solutions")
@@ -34,7 +34,7 @@ Check out my archive profile at: https://github.com/Cale-Torino-the-2nd
 - [[2021-present] IQ-Blue](https://iq-blue.com "IQ-Blue")
 <!-- Previous_SITES:END -->
 
-### :world: Current Sites
+### 🌍 Current Sites
 
 <!-- MY_SITES:START -->
 - [Website](https://iq-blue.com "Website")
@@ -78,19 +78,19 @@ Check out my archive profile at: https://github.com/Cale-Torino-the-2nd
 
 ---
 
-### :star: GitHub Stats
+### ⭐ GitHub Stats
 
 <!-- GITHUB_STATS:START -->
 [![Cale Torino's GitHub Stats](https://github-readme-stats-coral-ten.vercel.app/api?username=Cale-Torino&show_icons=true&theme=radical&hide_border=true)]()
 <!-- GITHUB_STATS:END -->
 
-### :speak_no_evil: Top Languages
+### 🙊 Top Languages
 
 <!-- TTOP_LAN:START -->
 [![Cale Torino's Top Languages](https://github-readme-stats-coral-ten.vercel.app/api/top-langs/?username=Cale-Torino&theme=radical&hide_border=true&layout=compact)]()
 <!-- TOP_LAN:END -->
 
-### :trophy: Github Profile Trophy
+### 🏆 Github Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Cale-Torino&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
