@@ -34,6 +34,16 @@ Check out my archive profile at: https://github.com/Cale-Torino-the-2nd
 - [[2021-present] IQ-Blue](https://iq-blue.com "IQ-Blue")
 <!-- Previous_SITES:END -->
 
+### :world: Current Sites
+
+<!-- MY_SITES:START -->
+- [Website](https://iq-blue.com "Website")
+- [BI Portal](https://bi.iq-blue.com "BI Site")
+- [Helpdesk](https://support.iq-blue.com "Helpdesk")
+- [IOT Portal](https://iot.iq-blue.com "IOT Site")
+- [Shop Site](https://shop.iq-blue.com "Shop Site")
+<!-- MY_SITES:END -->
+
 ---
 
 <!--
