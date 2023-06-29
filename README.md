@@ -2,7 +2,9 @@
 
 Check out my archive profile at: https://github.com/Cale-Torino-the-2nd
 
-#### A software development :octocat:, Ham radio :radio: and electronics :electric_plug: enthusiast.
+:octocat: :radio: :electric_plug:
+
+#### A software development, Ham radio and electronics enthusiast.
 
 - I enjoy being creative and working on web based projects such as creating websites and custom central management systems.
 - Tinkering with all kinds of electronics ( microcontrollers, FPGAs etc.)
