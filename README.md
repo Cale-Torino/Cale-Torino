@@ -2,11 +2,12 @@
 
 Check out my archive profile at: https://github.com/Cale-Torino-the-2nd
 
-#### A Software development enthusiast :octocat: , Ham radio enthusiast :radio: and electronics enthusiast :electric_plug: .
+#### A software development :octocat:, Ham radio :radio: and electronics :electric_plug: enthusiast.
 
-- I enjoy working on web based projects and creating websites.
-- I like tinkering with all kinds of electronics ( microcontrollers, FPGAs etc.)
-- I love the precision of electronics. I'm always happy to learn new things and I'm a self taught programmer.
+- I enjoy being creative and working on web based projects such as creating websites and custom central management systems.
+- Tinkering with all kinds of electronics ( microcontrollers, FPGAs etc.)
+- The precision of electronics is something that intrigues me. As a self-taught programmer, I get a thrill
+out of learning and improving my abilities and skills.
 
 ---
 
