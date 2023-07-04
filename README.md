@@ -1,8 +1,6 @@
 ## Hi there, I'm Cale Torino 👋
 
-Check out my archive profile at: https://github.com/Cale-Torino-the-2nd
-
-:octocat: :radio: :electric_plug:
+Check out my archive profile at: https://github.com/Cale-Torino-the-2nd :octocat: :radio: :electric_plug:
 
 #### A software development, Ham radio and electronics enthusiast.
 
