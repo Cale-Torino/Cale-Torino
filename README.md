@@ -91,9 +91,11 @@ out of learning and improving my abilities and skills.
 [![Cale Torino's Top Languages](https://github-readme-stats-coral-ten.vercel.app/api/top-langs/?username=Cale-Torino&theme=radical&hide_border=true&layout=compact)]()
 <!-- TOP_LAN:END -->
 
+<!--
 ### 🏆 Github Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Cale-Torino&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 <!--
 [![Readme Card](https://github-readme-stats-coral-ten.vercel.app/api/pin/?username=Cale-Torino&repo=github-readme-stats&theme=radical&hide_border=true)]()
