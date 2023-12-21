@@ -79,16 +79,16 @@ out of learning and improving my abilities and skills.
 
 ---
 
-### ⭐ GitHub Stats
+<!--### ⭐ GitHub Stats-->
 
 <!-- GITHUB_STATS:START -->
-[![Cale Torino's GitHub Stats](https://github-readme-stats-coral-ten.vercel.app/api?username=Cale-Torino&show_icons=true&theme=radical&hide_border=true)]()
+<!--[![Cale Torino's GitHub Stats](https://github-readme-stats-coral-ten.vercel.app/api?username=Cale-Torino&show_icons=true&theme=radical&hide_border=true)]()-->
 <!-- GITHUB_STATS:END -->
 
-### 🙊 Top Languages
+<!--### 🙊 Top Languages-->
 
 <!-- TTOP_LAN:START -->
-[![Cale Torino's Top Languages](https://github-readme-stats-coral-ten.vercel.app/api/top-langs/?username=Cale-Torino&theme=radical&hide_border=true&layout=compact)]()
+<!--[![Cale Torino's Top Languages](https://github-readme-stats-coral-ten.vercel.app/api/top-langs/?username=Cale-Torino&theme=radical&hide_border=true&layout=compact)]()-->
 <!-- TOP_LAN:END -->
 
 <!--
