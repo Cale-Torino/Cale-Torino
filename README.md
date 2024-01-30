@@ -29,7 +29,7 @@ out of learning and improving my abilities and skills.
 ### 🖥️ Previous Experience
 
 <!-- Previous_SITES:START -->
-- [[2015-2018] Truck Assist](https://truckassist.co.za "Truck Assist"), [Safe-T Solutions](https://web.archive.org/web/20220808231446/https://safe-t.co.za/ "Safe-T Solutions")
+- [[2015-2018] Truck Assist](https://truckassist.co.za "Truck Assist"), [Safe-T Solutions](https://safe-t.co.za "Safe-T Solutions")
 - [[2018] One Insurance](https://www.one.za.com "One Insurance")
 - [[2019-2021] SAFE-TVIGIL](https://web.archive.org/web/20220126202823/https://safe-tvigil.com/ "SAFE-TVIGIL")
 - [[2021-present] IQ-Blue](https://iq-blue.com "IQ-Blue")
