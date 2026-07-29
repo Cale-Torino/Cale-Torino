@@ -16,7 +16,7 @@ out of learning and improving my abilities and skills.
 <!-- MY_SITES:START -->
 <!-- - [My Website](https://www.techrad.co.za "My Website")-->
 - [My Tutorials Site](https://tutorials.techrad.co.za "My Tutorials Site")
-- [Support Site](https://support.techrad.co.za "Support Site")
+<!-- - [Support Site](https://support.techrad.co.za "Support Site")-->
 - [API Site](https://techrad.co.za/api_doc "F&Q Site")
 <!-- MY_SITES:END -->
 
