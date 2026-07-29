@@ -36,12 +36,11 @@ out of learning and improving my abilities and skills.
 <!-- Previous_SITES:END -->
 
 ### 🌍 Current Sites
-
+<!--- [IOT Portal](https://iot.iq-blue.com "IOT Site")-->
+<!--- [BI Portal](https://bi.iq-blue.com "BI Site")-->
 <!-- MY_SITES:START -->
 - [Website](https://iq-blue.com "Website")
-- [BI Portal](https://bi.iq-blue.com "BI Site")
 - [Helpdesk](https://support.iq-blue.com "Helpdesk")
-- [IOT Portal](https://iot.iq-blue.com "IOT Site")
 - [Shop Site](https://shop.iq-blue.com "Shop Site")
 <!-- MY_SITES:END -->
 
